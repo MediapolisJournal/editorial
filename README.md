@@ -1,0 +1,2 @@
+# mediapolisjournal
+Mediapolis Journal Editorial
