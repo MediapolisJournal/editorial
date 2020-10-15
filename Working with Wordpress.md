@@ -1,0 +1,9 @@
+### Working With Wordpress
+
+Each post on the site runs with a bio box underneath. E.g.: ![](Screenshot%202015-09-24%2018.56.27.png) In order to generate these boxes, you’ll need to do a couple of things to make sure the system has all the necessary information for you.
+
+1. Firstly, after a user account was created for you, you should have received an email with information about logging into the site and changing your password. (Contact us if you haven’t.) When you log in, you’ll see a menu bar on the left-hand side of the screen. Click on “Profile.”
+2. You can scroll down to the “Name” heading. Here you’ll see that the some information has already been supplied for you. Change your name if necessary; the name that you enter here will appear on the site. You are also able to change your email if necessary.
+4. Underneath this, you will see a box to input your biographical information. This will appear throughout the site, both on the masthead and also any time you write a piece for the site.
+5. At the bottom of this page, you can elect to include links to various social media sites. Note that you only need to enter your username; Wordpress will auto-generate the appropriate link to your Twitter/LinkedIn/Facebook page.
+6. Finally, please set up a gravatar for yourself if you do not already have one. This is a Globally-Recognized avatar (“gravatar”) that will be associated with your email address; on any sites that recognize gravatars (including Wordpress), your image will appear with your posts. Do this by visiting [www.gravatar.com](www.gravatar.com) and creating an account using the same email that you used to register. By uploading a picture there, it will appear with your bio on Mediapolis. Note that the emails need to match – if you use a work email to create your user account on Mediapolis, you’ll need to make sure you have a image associated with that email at Gravatar.
