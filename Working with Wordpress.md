@@ -1,6 +1,6 @@
 ### Working With Wordpress
 
-Each post on the site runs with a bio box underneath. E.g.: ![](Screenshot%202015-09-24%2018.56.27.png) In order to generate these boxes, you’ll need to do a couple of things to make sure the system has all the necessary information for you.
+Each post on the site runs with a bio box underneath. In order to generate these boxes, you’ll need to do a couple of things to make sure the system has all the necessary information for you.
 
 1. Firstly, after a user account was created for you, you should have received an email with information about logging into the site and changing your password. (Contact us if you haven’t.) When you log in, you’ll see a menu bar on the left-hand side of the screen. Click on “Profile.”
 2. You can scroll down to the “Name” heading. Here you’ll see that the some information has already been supplied for you. Change your name if necessary; the name that you enter here will appear on the site. You are also able to change your email if necessary.
