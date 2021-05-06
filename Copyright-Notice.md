@@ -1,0 +1,3 @@
+Mediapolis is an open-access, peer-reviewed, online academic journal. As such, we participate in the open exchange of information. Articles published in Mediapolis are released under Creative Commons Attribution Noncommercial No Derivatives (by-nc-nd) License. Under this license, articles are available for sharing and noncommercial distribution provided the appropriate attribution is given.
+
+Authors grant Mediapolis the right to publish and archive their work, but retain copyright. We ask that authors do not publish their submission elsewhere for three months after their work first appears in Mediapolis.
